@@ -1,6 +1,10 @@
 {
   "stations": [
     {
+      "name": "Radio",
+      "url": "https://azuracast.vibesounds.in:8010/radio.mp3"
+    },
+    {
       "name": "Akashvani Cuttack",
       "url": "https://radio.wavespb.com/live/fbcc67ea837b6ea7/fbcc67ea837b6ea7.m3u8"
     },
