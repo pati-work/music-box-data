@@ -1,32 +1,28 @@
-const STATIONS = [
-    {
-        id: 'akashvani-cuttack',
-        name: 'Akashvani Cuttack',
-        url: 'https://radio.wavespb.com/live/fbcc67ea837b6ea7/fbcc67ea837b6ea7.m3u8'
-    },
-    {
-        id: 'vividh-bharati',
-        name: 'Vividh Bharati',
-        url: 'https://radio.wavespb.com/live/146ed6ec6dea5a24/146ed6ec6dea5a24.m3u8'
-    },
-    {
-        id: 'fm-rainbow',
-        name: 'FM Rainbow',
-        url: 'https://radio.wavespb.com/live/e0ad71c249a45867/e0ad71c249a45867.m3u8'
-    },
-    {
-        id: 'vbs-cuttack',
-        name: 'VBS Cuttack',
-        url: 'https://radio.wavespb.com/live/cde7bdd265f54e70/cde7bdd265f54e70.m3u8'
-    },
-    {
-        id: 'akashvani-bangla',
-        name: 'Akashvani Bangla',
-        url: 'https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio137/hlspbaudio137_Auto.m3u8'
-    },
-    {
-        id: 'darjeeling',
-        name: 'Darjeeling',
-        url: 'https://radio.wavespb.com/live/1f781b48497e67d3/1f781b48497e67d3.m3u8'
-    }
-];
+{
+    "stations": [
+        {
+            "name": "Akashvani Cuttack",
+            "url": "https://radio.wavespb.com/live/fbcc67ea837b6ea7/fbcc67ea837b6ea7.m3u8"
+        },
+        {
+            "name": "Vividh Bharati",
+            "url": "https://radio.wavespb.com/live/146ed6ec6dea5a24/146ed6ec6dea5a24.m3u8"
+        },
+        {
+            "name": "FM Rainbow",
+            "url": "https://radio.wavespb.com/live/e0ad71c249a45867/e0ad71c249a45867.m3u8"
+        },
+        {
+            "name": "VBS Cuttack",
+            "url": "https://radio.wavespb.com/live/cde7bdd265f54e70/cde7bdd265f54e70.m3u8"
+        },
+        {
+            "name": "Akashvani Bangla",
+            "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio137/hlspbaudio137_Auto.m3u8"
+        },
+        {
+            "name": "Darjeeling",
+            "url": "https://radio.wavespb.com/live/1f781b48497e67d3/1f781b48497e67d3.m3u8"
+        }
+    ]
+}
