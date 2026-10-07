@@ -1,13 +1,13 @@
 {
   "stations": [
     {
-      "name": "Nostalgic Bollywood 90s",
-      "url": "https://www.desizoneradio.com/relay3"
-    },
-    {
       "name": "Akashvani Cuttack",
       "url": "https://radio.wavespb.com/live/fbcc67ea837b6ea7/fbcc67ea837b6ea7.m3u8"
     },
+    {
+      "name": "Nostalgic Bollywood 90s",
+      "url": "https://www.desizoneradio.com/relay3"
+    },    
     {
       "name": "Vividh Bharati",
       "url": "https://radio.wavespb.com/live/146ed6ec6dea5a24/146ed6ec6dea5a24.m3u8"
